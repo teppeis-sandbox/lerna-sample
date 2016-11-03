@@ -1,6 +1,6 @@
 {
   "name": "@teppeis/lerna-sample-time",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@teppeis/lerna-sample-plus": "^1.0.0"
+    "@teppeis/lerna-sample-plus": "^1.1.0"
   },
   "devDependencies": {
     "mocha": "^3.1.2"
