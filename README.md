@@ -7,13 +7,12 @@ A sample monorepo project for lerna.
 [![npm downloads][npm-downloads-image]][npm-url]
 ![Node.js Version Support][node-version]
 [![build status][travis-image]][travis-url]
-[![windows build status][appveyor-image]][appveyor-url]
 [![dependency status][deps-image]][deps-url]
 ![License][license]
 
 ## How to use
 
-See <a href="packages/lerna-sample/REAMDE.md">packages/lerna-sample/REAMDE.md</a>.
+See <a href="packages/lerna-sample/README.md">packages/lerna-sample/README.md</a>.
 
 ## How to develop
 
