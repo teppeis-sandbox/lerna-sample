@@ -4,7 +4,6 @@
 A sample monorepo project for lerna.
 
 [![npm version][npm-image]][npm-url]
-[![npm downloads][npm-downloads-image]][npm-url]
 ![Node.js Version Support][node-version]
 [![build status][travis-image]][travis-url]
 [![dependency status][deps-image]][deps-url]
