@@ -9,7 +9,7 @@
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-      "@teppeis/lerna-sample-plus": "^1.0.0"
+    "@teppeis/lerna-sample-plus": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "^3.1.2"
