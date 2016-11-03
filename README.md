@@ -8,7 +8,6 @@ A sample monorepo project for lerna.
 ![Node.js Version Support][node-version]
 [![build status][travis-image]][travis-url]
 [![dependency status][deps-image]][deps-url]
-![License][license]
 
 ## How to use
 
@@ -52,7 +51,7 @@ MIT License: Teppei Sato &lt;teppeis@gmail.com&gt;
 [travis-url]: https://travis-ci.org/teppeis-sandbox/lerna-sample
 [deps-image]: https://img.shields.io/david/teppeis-sandbox/lerna-sample.svg
 [deps-url]: https://david-dm.org/teppeis-sandbox/lerna-sample
-[node-version]: https://img.shields.io/badge/Node.js%20support-v0.12–v6-brightgreen.svg
+[node-version]: https://img.shields.io/badge/Node.js%20support-v6-brightgreen.svg
 [coverage-image]: https://img.shields.io/coveralls/teppeis-sandbox/lerna-sample/master.svg
 [coverage-url]: https://coveralls.io/github/teppeis-sandbox/lerna-sample?branch=master
 [license]: https://img.shields.io/npm/l/@teppeis/lerna-sample.svg
