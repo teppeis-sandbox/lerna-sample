@@ -1,4 +1,17 @@
 {
+  "name": "@teppeis/lerna-sample",
+  "version": "1.0.0",
+  "description": "A sample monorepo package for lerna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lerna",
+    "monorepo"
+  ],
+  "author": "Teppei Sato <teppeis@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "lerna": "2.0.0-beta.30"
   }
