@@ -1,19 +1,14 @@
 {
   "name": "@teppeis/lerna-sample",
   "version": "1.1.0",
-  "description": "@teppeis/lerna-sample-plus ====",
+  "description": "",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "mocha"
+    "test": "$(cd ..;npm bin)/mocha"
   },
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "mocha": "^3.1.2"
-  },
+  "devDependencies": {},
   "dependencies": {
     "@teppeis/lerna-sample-plus": "^1.1.0",
     "@teppeis/lerna-sample-time": "^1.1.0"
