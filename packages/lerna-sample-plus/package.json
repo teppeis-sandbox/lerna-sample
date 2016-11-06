@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(cd ..;npm bin)/mocha"
+    "test": "node test/*.js"
   },
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",

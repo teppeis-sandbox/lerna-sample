@@ -1,5 +1,7 @@
 'use strict';
 
+require('run-with-mocha');
+
 const time = require('../');
 const assert = require('assert');
 

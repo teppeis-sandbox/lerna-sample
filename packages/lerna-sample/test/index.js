@@ -1,5 +1,7 @@
 'use strict';
 
+require('run-with-mocha');
+
 const assert = require('assert');
 const sut = require('../');
 
