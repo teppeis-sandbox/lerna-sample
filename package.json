@@ -6,10 +6,12 @@
   "scripts": {
     "lerna": "lerna",
     "postinstall": "lerna bootstrap",
-    "test": "mocha packages/*/test/*.js"
+    "test": "mocha packages/*/test/*.js",
+    "update-readme": "lerna-npm-readme-hack"
   },
   "devDependencies": {
     "lerna": "2.0.0-beta.30",
+    "lerna-npm-readme-hack": "^1.0.6",
     "mocha": "^3.1.2",
     "run-with-mocha": "^1.1.0"
   },
