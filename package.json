@@ -1,7 +1,6 @@
 {
   "name": "@teppeis/lerna-sample",
   "description": "A sample monorepo package for lerna",
-  "version": "1.0.0",
   "author": "Teppei Sato <teppeis@gmail.com>",
   "private": true,
   "scripts": {
